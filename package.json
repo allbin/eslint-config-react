@@ -1,0 +1,17 @@
+{
+  "name": "@allbin/eslint-config-react",
+  "version": "0.0.1",
+  "description": "All Binary ESLint for React projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "dependencies": {
+    "@allbin/eslint-config": "0.0.4",
+    "eslint-plugin-react": "^7.18.3"
+  },
+  "peerDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
