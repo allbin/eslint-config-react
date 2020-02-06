@@ -1,8 +1,7 @@
 module.exports = {
   "extends": [
-    "@allbin/eslint-config",
     'plugin:react/recommended',
-    'plugin:@typescript-eslint/recommended',
+    "@allbin/eslint-config",
   ],
   parserOptions: {
     ecmaFeatures: {
