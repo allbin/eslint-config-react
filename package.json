@@ -7,7 +7,7 @@
     "test": "exit 0"
   },
   "dependencies": {
-    "@allbin/eslint-config": "0.0.5",
+    "@allbin/eslint-config": "0.0.6",
     "eslint-plugin-react": "^7.18.3"
   },
   "peerDependencies": {},
