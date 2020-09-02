@@ -1,6 +1,6 @@
 {
   "name": "@allbin/eslint-config-react",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "All Binary ESLint for React projects",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "@allbin/eslint-config": "0.0.6",
-    "eslint-plugin-react": "^7.18.3"
+    "eslint-plugin-react": "^7.18.3",
+    "eslint-plugin-react-hooks": "^4.1.0"
   },
   "peerDependencies": {},
   "keywords": [],

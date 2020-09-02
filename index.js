@@ -1,7 +1,11 @@
 module.exports = {
+  "plugins": [
+    'react-hooks'
+  ],
   "extends": [
     'plugin:react/recommended',
-    "@allbin/eslint-config",
+    '@allbin/eslint-config',
+    'plugin:react-hooks/recommended'
   ],
   parserOptions: {
     ecmaFeatures: {
